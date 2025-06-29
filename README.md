@@ -8,7 +8,7 @@ Developed a simple profile card that includes a profile picture, name, title, li
 
 ## UI Snapshot
 
-![Profile Card]()
+![Profile Card](img/snapshot.png)
 
 ## Contributing
 
